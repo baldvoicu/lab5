@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1680089009 source:c:\users\vladu\desktop\lab5\lab5\main.c
+	"suport.h"
+
+1680089177 c:\users\vladu\desktop\lab5\lab5\suport.h
+	<stdlib.h>
+	<string.h>
+	<stddef.h>
+	<stdio.h>
+
+1680089019 source:c:\users\vladu\desktop\lab5\lab5\stiva.c
+	"suport.h"
+
